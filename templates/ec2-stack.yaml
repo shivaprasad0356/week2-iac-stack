@@ -1,6 +1,7 @@
 AWSTemplateFormatVersion: '2010-09-09'
 Description: Week 2 - Basic IaC using CloudFormation
 
+
 Resources:
   Week2VPC:
     Type: AWS::EC2::VPC
